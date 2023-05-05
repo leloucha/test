@@ -1,2 +1,2 @@
-GIF89a;
+GIF87a;
 <?php echo "Hacked!"; ?>
