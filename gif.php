@@ -1,2 +1,2 @@
-GIF87a;
+.PNG....;
 <?php echo "Hacked!"; ?>
