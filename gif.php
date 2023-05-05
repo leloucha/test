@@ -1,1 +1,2 @@
-GIF89a;<?php echo "Hacked!"; ?>
+GIF89a;
+<?php echo "Hacked!"; ?>
